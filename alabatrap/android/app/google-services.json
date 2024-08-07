@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894312391943",
+    "project_id": "todo-fb-d315a",
+    "storage_bucket": "todo-fb-d315a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894312391943:android:cba22a6cf369f709f6d1a2",
+        "android_client_info": {
+          "package_name": "com.huy.alabatrap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi2cx1j0aWOvHz3hHKH-lc8ZWgkK1ElqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
